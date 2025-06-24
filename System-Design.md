@@ -1,4 +1,4 @@
-# Sytem Design for Document Processor
+# System Design for Document Processor
 
 ## Components : 
 
